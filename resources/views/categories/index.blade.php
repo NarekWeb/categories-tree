@@ -17,8 +17,6 @@
                                 <a class="px-1" href="{{ route('categories.edit', $mainCategory->id) }}">
                                     <i class="fa fa-pencil" aria-hidden="true"></i>
                                 </a>
-
-
                             </span>
                         </span>
                         @if($mainCategory->subcategories->count())

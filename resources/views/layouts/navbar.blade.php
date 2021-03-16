@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-sm bg-light navbar-dark">
+<nav class="navbar navbar-expand-sm navbar-dark">
     <a class="navbar-brand" href="{{ route('categories') }}">
         <img src="{{ asset('images/contant_logo.png') }}" alt="Logo">
     </a>
